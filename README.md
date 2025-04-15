@@ -16,7 +16,7 @@ Regarder chaque domaine (santé, education, culture)
 On peut ensuite soit pondérée les domaines en eux même (santé plus important que loisir?)
 
 Ou pondérer chaques équipements (Hypermarché > Supermarche ?)
-(faire somme des regroupements (ex : somme de touts les G1)
+(faire somme des regroupements (ex : somme de touts les G1)) Comparare a ya 20ans?
 SANTE
 
 Équipement | Code | Pondération
